@@ -4,9 +4,12 @@ Unsupervised anomaly detection techniques detect anomalies in an unlabeled test 
 
 # How to implemenation? 
 1. Generative Adversarial Network (GAN)
-    - https://github.com/lecongaizu/Anomaly-Detection/blob/master/GAN-Anomaly-Detection/GAN-Anomaly-Detection-Manual.pdf
+    - Manual: https://github.com/lecongaizu/Anomaly-Detection/blob/master/GAN-Anomaly-Detection/GAN-Anomaly-Detection-Manual.pdf
+    - Source code: https://github.com/lecongaizu/Anomaly-Detection/blob/master/GAN-Anomaly-Detection/GAN_Anomaly_Detection.ipynb
 2. Varitional AutoEncoder (VAE)
-    - https://github.com/lecongaizu/Anomaly-Detection/blob/master/Autoencoder-Anomaly-Detection/Varitional%20AutoEncoder.pdf
+    - Manual: https://github.com/lecongaizu/Anomaly-Detection/blob/master/Autoencoder-Anomaly-Detection/Varitional%20AutoEncoder.pdf
+    - Source code: https://github.com/lecongaizu/Anomaly-Detection/blob/master/Autoencoder-Anomaly-Detection/VAE-Anomaly-detection.ipynb
+
 # Dataset:
 1. Washer: https://github.com/lecongaizu/Anomaly-Detection/tree/master/Dataset
 
