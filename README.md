@@ -13,3 +13,12 @@ Unsupervised anomaly detection techniques detect anomalies in an unlabeled test 
 # Dataset:
 1. Washer: https://github.com/lecongaizu/Anomaly-Detection/tree/master/Dataset
 
+# Getting Started 
+
+$ git clone https://github.com/lecongaizu/Deep-Learning-Anomaly-Detection
+
+# Dependencies 
+- Python 3.6
+- Pytorch 1.5.0
+
+
